@@ -16,7 +16,7 @@
 <a href="https://twitter.com/soulaimanejnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soulaimanejnt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soulaimaneeljanati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soulaimaneeljanati" height="30" width="40" /></a>
 <a href="https://fb.com/soulaimane.eljanati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soulaimane.eljanati" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/soulaimaneeljanati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/soulaimaneeljanati" height="30" width="40" /></a>
+<a href="https://instagram.com/soulaimaneeljanati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/soulaimaneeljanati" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/soulaimaneeljanati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soulaimaneeljanati" height="30" width="40" /></a>
 </p>
 
